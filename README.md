@@ -1,5 +1,5 @@
 # Solara
-https://solaraexecutor.com/wp-content/uploads/2024/05/logo.png
+![]([Solara.png](https://solaraexecutor.com/wp-content/uploads/2024/05/logo.png))
 Solora is a free level 8 Roblox executor that can execute most scripts. If you get banned don't blame us its your fault for downloading a exploit.
 
 Solora gameplay:
